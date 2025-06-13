@@ -33,5 +33,5 @@
 1. **Clone the repository:**
 
    ```bash
-   git clone [https://github.com/your-username/bookverse.git](https://github.com/gabipayan/BookVerse)
+   git clone [gabipayan](https://github.com/gabipayan/BookVerse)
    cd bookverse
