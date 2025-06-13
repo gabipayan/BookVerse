@@ -33,7 +33,7 @@
 1. **Clone the repository:**
 
    ```bash
-   git clone
-[gabipayan](https://github.com/gabipayan/BookVerse)
+git clone [gabipayan](https://github.com/gabipayan/BookVerse)
+   
    cd bookverse
-    ```
+    
