@@ -1,6 +1,6 @@
 # 📚 BookVerse
 
-BookVerse is a full-stack book search engine that allows users to discover new books using the Google Books API, save their favorite finds, and manage their personal reading list. Originally built with a RESTful API, it has been fully refactored to use **GraphQL** with **Apollo Server**, offering a more efficient and flexible way to fetch and modify data.
+[BookVerse](https://bookverse-1-ocad.onrender.com) is a full-stack book search engine that allows users to discover new books using the Google Books API, save their favorite finds, and manage their personal reading list. Originally built with a RESTful API, it has been fully refactored to use **GraphQL** with **Apollo Server**, offering a more efficient and flexible way to fetch and modify data.
 
 > Deployed on [Render]([https://render.com/](https://bookverse-1-ocad.onrender.com)) with a MongoDB Atlas cloud database.
 > ![Mock-up](https://github.com/user-attachments/assets/abccad42-a621-48cf-928a-80c5cf4e9bfc)
